@@ -1,6 +1,3 @@
-1)  Project Overview
-   
-Since this is an Excel project, your README should emphasize the "Business Intelligence" aspect and the specific Excel functions you used.
 
 # Bank Customer Churn Analysis (Excel)
 
